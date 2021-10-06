@@ -1,0 +1,24 @@
+{
+  "name": "vibeapp-backend",
+  "version": "0.1.0",
+  "description": "Backend for the Vibe App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "nodemon ."
+  },
+  "keywords": [
+    "vibe",
+    "app",
+    "social",
+    "media"
+  ],
+  "author": "Tucker Hawkinson <tucker@thevibe.app>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
